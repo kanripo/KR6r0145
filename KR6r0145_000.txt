@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 甄正論
+#+DATE: 2015-08-30 22:29:04.731686
+#+PROPERTY: JUAN 0
