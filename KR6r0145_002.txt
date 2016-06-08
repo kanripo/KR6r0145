@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 22:29:05.612866
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:27
 #+TITLE: 甄正論
 #+PROPERTY: CBETA_ID T52n2112
 #+PROPERTY: ID KR6r0145
